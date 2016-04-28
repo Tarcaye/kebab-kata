@@ -15,7 +15,9 @@ Les ingrédients sont variés : Laitue, roquette, tomate, oignons, agneau, bœuf
 
 ## Itération 1 (15 min)
 
-Faire des kebabs, chaque kebab doit pouvoir dire s'il est végétarien.
+Faire des kebabs:
+* chaque kebab doit pouvoir dire les couches d'ingrédients dont il est composé (exemple : Laiture | Tomate | Oignons | Agneau)
+* chaque kebab doit pouvoir dire s'il est végétarien.
 
 
 ## Itération 2 (7 min)
